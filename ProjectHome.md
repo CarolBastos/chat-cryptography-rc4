@@ -1,0 +1,4 @@
+- Chat com mensagens criptografadas;
+- Linguagem Java;
+- Algoritmo de criptografia RC4;
+- Modelo Cliente-Servidor.
